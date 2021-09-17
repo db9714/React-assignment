@@ -1,0 +1,39 @@
+.headerStyle {
+  font-size: 22px;
+  color: #fff;
+}
+.headerMargin {
+  margin-left: 10px;
+}
+.container {
+  padding-top: 60px;
+}
+.listOuter {
+  border-bottom: 2px solid #bdb7b7;
+  height: 125px;
+  overflow-y: auto;
+  display: flex;
+  margin-left: 40px;
+}
+.stadiumSection {
+  height: calc(100vh - 100px);
+  overflow-y: auto;
+  width: 100%;
+  padding-right: 40px;
+}
+.w-50 {
+  width: 50%;
+}
+.w-15 {
+  width: 15%;
+}
+.wrapper {
+  width: 50%;
+  display: flex;
+  justify-content: space-between;
+}
+.smallLogo {
+  height: 40px;
+  width: 50px !important;
+  margin-right: 25px;
+}

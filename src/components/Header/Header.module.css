@@ -1,0 +1,20 @@
+.wrapper {
+  width: 500px;
+  display: flex;
+  justify-content: space-between;
+}
+.headerStyle {
+  font-size: 22px;
+  color: #fff;
+  cursor: pointer;
+}
+.headerMargin {
+  margin-left: 10px;
+}
+.outerHeader {
+  height: 80px;
+  background-color: #000b18;
+  padding-left: 50px;
+  position: fixed;
+  padding-right: 50px;
+}

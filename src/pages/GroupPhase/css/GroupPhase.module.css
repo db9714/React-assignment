@@ -1,0 +1,30 @@
+.container {
+  padding-top: 60px;
+}
+.listOuter {
+  border-bottom: 2px solid #bdb7b7;
+  overflow-y: auto;
+  display: flex;
+  margin-left: 40px;
+  margin-right: 40px;
+}
+.teamsSection {
+  height: calc(100vh - 100px);
+  overflow-y: auto;
+  margin-top: 20px;
+}
+.wrapper {
+  width: 50%;
+  display: flex;
+  justify-content: space-between;
+}
+.columnStyle {
+  width: 50%;
+  justify-content: flex-start;
+  display: flex;
+}
+.smallLogo {
+  height: 15px;
+  width: 15px !important;
+  margin-right: 5px;
+}
