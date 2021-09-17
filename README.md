@@ -1,4 +1,4 @@
-## T0 run the project follow below steps
-clone the repository 
-install packages and node modules using `npm install`
-run the project using `npm start` or `yarn start`
+## To run the project follow below steps
+# Clone the repository 
+# Install packages and node modules using `npm install`
+# Run the project using `npm start` or `yarn start`
